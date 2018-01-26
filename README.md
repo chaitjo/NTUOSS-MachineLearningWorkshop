@@ -22,7 +22,7 @@ Raise your hand at any time during the workshop or [email me](mailto:ckjoshi9@gm
 
 # Machine Learning 101
 
-Let's watch [a video](https://www.youtube.com/watch?v=f_uwKZIAeM0)!
+### Let's watch [a video](https://www.youtube.com/watch?v=f_uwKZIAeM0)!
 
 Machine learning algorithms differ from standard algorithms (such as searching or sorting) in the sense that they **do not need to be explicitly programmed** to do a task. Such algorithms can *learn* how to solve the given task from *data*.
 
