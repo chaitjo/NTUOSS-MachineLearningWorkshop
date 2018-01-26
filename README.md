@@ -85,7 +85,7 @@ import sklearn
 import matplotlib.pyplot as plt
 ```
 
-During the course of this tutorial, we shall be importing more functions/classes from these libraries as we build our model.
+During the course of this tutorial, we shall be importing more functions/classes from these libraries as we build our model. We shall be refering to the [scikit-learn documentation](http://scikit-learn.org/stable/documentation.html) a lot, so you might want to have a tab open for it.
 
 # Task 1: Data Exploration
 
