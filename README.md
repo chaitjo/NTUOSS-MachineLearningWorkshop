@@ -255,6 +255,8 @@ Humans can easily visualize 1d, 2d and 3d graphs, so it is often useful to reduc
 
 ![Graph dimensions](/img/dimensions.png)
 
+![PCA gif](/img/PCA.gif)
+
 In our case, we'll reduce each 64 dimensional data point into 2 dimensions. Intuitively, we want to ensure that these 2 'super' features hold as much information about the original 64 features (i.e. summarise them). To achieve this, we'll be using a technique known as Principal Component Analysis (PCA).
 
 Refer to the [scikit-learn PCA documentation](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) to import the PCA class and create a PCA model.
