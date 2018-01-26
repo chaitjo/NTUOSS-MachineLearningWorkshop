@@ -22,6 +22,8 @@ Raise your hand at any time during the workshop or [email me](mailto:ckjoshi9@gm
 
 # Machine Learning 101
 
+Let's watch [a video](https://www.youtube.com/watch?v=f_uwKZIAeM0)!
+
 Machine learning algorithms differ from standard algorithms (such as searching or sorting) in the sense that they **do not need to be explicitly programmed** to do a task. Such algorithms can *learn* how to solve the given task from *data*.
 
 ![Facial Recognition](/img/facial-recognition.jpeg)
@@ -135,6 +137,8 @@ print(digits._____)
 To store such arrays or matrices, we use an object called a numpy array. We could have used standard lists, but numpy arrays are more powerful and specifically designed for performing fast mathematical operations.
 
 We can treat them in a similar way to lists for now, but we shall be covering them more in our next workshop.
+
+![Arrays](/img/arrays.png)
 
 ## Step 3: Inspecting the shape: How much data do we have?
 
